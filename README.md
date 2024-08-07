@@ -6,7 +6,7 @@
 
 ![Thumbnail of Cayman](thumbnail.png)
 
-## Usage
+### Usage
 
 To use the Cayman theme:
 
