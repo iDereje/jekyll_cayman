@@ -30,9 +30,7 @@ In QA, I focused on identifying and resolving software issues to ensure high-qua
  [![My Skills](https://skillicons.dev/icons?i=python,selenium,java,gitlab,junit,intellij,pycharm,)](https://skillicons.dev) 
 <div align="left">
  
- <a href="https://www.postgresql.org/docs/" target="_blank">
- <img src="https://skillicons.dev/icons?i=postgresql"  width="35PX" height="100%"; backgroung: transperent">
- </a>
+
  <a href="https://docs.oracle.com/en/java/" target="_blank">
  <img src="https://skillicons.dev/icons?i=java" width="35PX" height="100%"/>
  </a>
