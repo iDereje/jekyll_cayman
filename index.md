@@ -27,8 +27,6 @@ In QA, I focused on identifying and resolving software issues to ensure high-qua
 
 ### 💻 **Programming  Languages and Tools**
 
- [![My Skills](https://skillicons.dev/icons?i=python,selenium,java,gitlab,junit,intellij,pycharm,)](https://skillicons.dev) 
-<div align="left">
  
 
  <a href="https://docs.oracle.com/en/java/" target="_blank">
