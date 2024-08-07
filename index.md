@@ -57,10 +57,7 @@ In QA, I focused on identifying and resolving software issues to ensure high-qua
 </a>
   
   
-<a href="https://archlinux.org/">
-  <img src="icons/Arch_Linux_-Crystal-_icon_2.svg" alt="Debian" width="32" height="32"/>
-</a>
-  
+
   
 <a href="https://docs.microsoft.com/en-us/powershell/">
   <img src="https://img.icons8.com/color/48/000000/powershell.png" alt="PowerShell" width="32" height="32"/>
@@ -95,15 +92,6 @@ In QA, I focused on identifying and resolving software issues to ensure high-qua
 </a>
   
   
-
-  
-  
-<a href="https://www.jetbrains.com/help/pycharm/settings-tools-python-integrated-tools.html">
-  <img src="icons/PyCharm_Icon.svg" alt="Intellij" width="32" height="32"/>
-</a>
-  
-  <a href="https://jekyllrb.com/docs/" target="_blank">
-  <img src="https://github.com/iDereje/iDereje/raw/c65cebe8f8bdbb87113c5bcc88a8c4657d6f72e2/icons/jekyll-color.svg" alt="Jekyll" width="32" height="32" />
 </a>
 
 <a href="https://junit.org/junit5/docs/current/user-guide/" target="_blank">
