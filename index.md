@@ -29,9 +29,7 @@ In QA, I focused on identifying and resolving software issues to ensure high-qua
 
  
 
- <a href="https://docs.oracle.com/en/java/" target="_blank">
- <img src="https://skillicons.dev/icons?i=java" width="35PX" height="100%"/>
- </a>
+
  <a href="https://www.selenium.dev/documentation/" target="_blank">
  <img src="https://skillicons.dev/icons?i=selenium" width="35PX" height="100%";"/>
  </a>
