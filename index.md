@@ -80,22 +80,14 @@ In QA, I focused on identifying and resolving software issues to ensure high-qua
   <img src="https://github.com/iDereje/iDereje/raw/c65cebe8f8bdbb87113c5bcc88a8c4657d6f72e2/icons/circleci-color.svg" alt="CircleCI" width="32" height="32" />
 </a>
 
-<a href="https://github.com/features/actions" target="_blank">
-  <img src="https://github.com/iDereje/iDereje/raw/c65cebe8f8bdbb87113c5bcc88a8c4657d6f72e2/icons/githubactions-color.svg" alt="GitHub Actions" width="32" height="32" />
-</a>
 
-<a href="https://about.gitlab.com" target="_blank">
-  <img src="https://github.com/iDereje/iDereje/raw/c65cebe8f8bdbb87113c5bcc88a8c4657d6f72e2/icons/gitlab-color.svg" alt="GitLab" width="32" height="32" />
-</a>
+
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank">
   <img src="https://github.com/iDereje/iDereje/raw/c65cebe8f8bdbb87113c5bcc88a8c4657d6f72e2/icons/html5-color.svg" alt="HTML5" width="32" height="32" />
 </a>
 
 
-<a href="https://www.docker.com">
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="32" height="32"/>
-</a>
   
   
 <a href="https://code.visualstudio.com/docs">
@@ -103,9 +95,7 @@ In QA, I focused on identifying and resolving software issues to ensure high-qua
 </a>
   
   
-<a href="https://www.jetbrains.com/help/idea/getting-started.html">
-  <img src="icons/IntelliJ_IDEA_Icon.svg" alt="Intellij" width="32" height="32"/>
-</a>
+
   
   
 <a href="https://www.jetbrains.com/help/pycharm/settings-tools-python-integrated-tools.html">
